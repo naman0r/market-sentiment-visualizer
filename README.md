@@ -310,3 +310,5 @@ This is an educational tool, not financial advice. The composite score is a simp
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+Built with care.
